@@ -3,3 +3,5 @@ netifaces
 py-cpuinfo
 flask
 requests
+opencv-python
+numpy
